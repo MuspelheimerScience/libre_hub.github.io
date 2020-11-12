@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
-  username               :
+  WenzelLab               : &twitter
+#facebook:
+#  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "WenzelLab"
+  avatar           : "WenzelLab.png"
+  bio              : "Team, research and teaching of the lab headed by Asst. Prof. Dr. Tobias Wenzel"
+  location         : "Santiago, Chile"
+  employer         : "https://ingenieriabiologicaymedica.uc.cl/en"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Tobias%20Wenzel"
+  googlescholar    : "https://scholar.google.com/citations?user=41v3inwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Tobias_Wenzel
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/wenzel-lab"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/wenzeltobias/"
+  orcid            : "http://orcid.org/0000-0001-8443-1315"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "WenzelLab"
   vine             :
   weibo            :
   xing             :

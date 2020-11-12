@@ -1,13 +1,12 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
+  name        : "Tobias Wenzel"
+  uri         : "https://twitter.com/MakerTobey"
   email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  bio         : "Me myself."
+  avatar      : "Tobey1.jpg"
+  twitter     : "@MakerTobey"
 
 Name2 Name2:
   name        : "Name2 Name2"

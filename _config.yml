@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Wenzel Lab"
   avatar           : "W-logo.png"
-  bio              : "Team, research and teaching of the IIBM UC lab headed by Tobias Wenzel"
-  location         : "Santiago, Chile"
+  bio              : "Team, research and teaching of the IIBM UC lab headed by Asst.Prof. Dr. Tobias Wenzel"
+  location         : "Santiago de Chile"
   employer         : "Universidad Católica de Chile"
-  web              : "ingenieriabiologicaymedica.uc.cl/en"
+  #"ingenieriabiologicaymedica.uc.cl/en"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Tobias%20Wenzel"
   googlescholar    : "https://scholar.google.com/citations?user=41v3inwAAAAJ&hl=en"
   email            :

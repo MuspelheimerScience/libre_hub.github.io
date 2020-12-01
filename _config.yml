@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Wenzel Lab"
 title_separator          : "-"
-name                     : &name "Asst. Prof. Dr. Tobias Wenzel"
-description              : &description "About our Lab's team, research and teaching"
+name                     : &name "Wenzel Lab"
+description              : &description "Microbiome research team<br/>using microfluidics and<br/>open source hardware."
 url                      : https://wenzel-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/wenzel-lab/wenzel-lab.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  WenzelLab               : &twitter
+  username               : &twitter "WenzelLab"
 #facebook:
 #  username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wenzel Lab"
   avatar           : "W-logo.png"
-  bio              : "Team, research and teaching of the IIBM UC lab headed by Asst. Prof. Dr. Tobias Wenzel"
+  bio              : "Microbiome research team using microfluidics and open source hardware <br> <br> Asst. Prof. Dr. Tobias Wenzel at UC Chile, <a style='color: black;'href='https://ingenieriabiologicaymedica.uc.cl/en'>Institute for Biological and Medical Engineering</a>" "
   location         : "Santiago de Chile"
   employer         : "Univ. Católica de Chile"
   #"ingenieriabiologicaymedica.uc.cl/en"
@@ -110,12 +110,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "WenzelLab"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        :"MakerTobey"
 
 
 # Reading Files

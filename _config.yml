@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wenzel Lab"
   avatar           : "W-logo.png"
-  bio              : "Microbiome research team using microfluidics and open source hardware <br> <br> Asst. Prof. Dr. Tobias Wenzel at UC Chile, <a style='color: black;'href='https://ingenieriabiologicaymedica.uc.cl/en'>Institute for Biological and Medical Engineering</a>"
+  bio              : "Microbiome research team using micro-fluidics and open source hardware <br> <br> Asst. Prof. Dr. Tobias Wenzel at UC Chile, <a style='color: black;'href='https://ingenieriabiologicaymedica.uc.cl/en'>Institute for Biological and Medical Engineering</a>"
   location         : "Santiago de Chile"
   employer         : "Univ. Católica de Chile"
   #"ingenieriabiologicaymedica.uc.cl/en"

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wellcome to the Website of the wenzel Lab, an interdisciplinary research team headed by Prof. Tobias Wenzel at the Institute of Biological and Medial Engineering at the Universidad Católica de Chile.
+Wellcome to the website of the Wenzel Lab, an interdisciplinary research team headed by Prof. Tobias Wenzel at the Institute of Biological and Medial Engineering at the Universidad Católica de Chile.
 
 Our research
 ======

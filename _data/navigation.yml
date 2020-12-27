@@ -9,13 +9,13 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Research Portfolio"
+  - title: "Research portfolio"
     url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Art"
+  - title: "The art in science"
     url: /art/
     
   #- title: "Guide"

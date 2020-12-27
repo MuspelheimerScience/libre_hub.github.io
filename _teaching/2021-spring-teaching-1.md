@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Prototyping for bioengineers (IIBM2026)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
@@ -10,7 +10,7 @@ location: "Santiago, Chile"
 
 This is an interdisciplinary remote practical course for students from engineering, biology and medicine.
 
-This course allows students to develop practical skills to design and build prototypes in engineering (hardware) and biology (DNA, microbial ecosystems and in vitro reactions). It covers the theoretical (lectures) and practical (laboratory) basics of modern digital fabrication, integration and automation, and prototyping with biology. For practical learning, every student will start a biological culture, design a 3D printed object, assemble a microscope prototype and use it in a problem-solving challenge to monitor fermentation in a microfluidic chip. Through lectures and research, students will also learn where to find resources for prototyping, how to manage files, document openly and collaborate with other makers online.  Evaluation will be based on participation, presentations, prototyping and written products. 
+This course allows students to develop practical skills to design and build prototypes in engineering (hardware) and biology (DNA, microbial ecosystems and in vitro reactions). It covers the theoretical (lectures) and practical (laboratory) basics of modern digital fabrication, integration and automation, and prototyping with biology. For practical learning, every student will start a biological culture, design a 3D printed object, assemble a microscope prototype and use it in a problem-solving challenge to monitor fermentation in a microfluidic chip. Through lectures and research, students will also learn where to find resources for prototyping, how to manage files, document openly and collaborate with other makers online.  Evaluation will be based on participation, presentations, prototyping and written products.
 
 Content:
 1.	Modern prototyping is open, digital rapid prototyping

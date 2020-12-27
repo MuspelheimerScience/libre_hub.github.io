@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Wenzel Lab"
 title_separator          : "-"
 name                     : &name "Wenzel Lab"
@@ -115,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : 
+  wikipedia        :
 
 
 # Reading Files

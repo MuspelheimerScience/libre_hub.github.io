@@ -1,0 +1,56 @@
+- title : "Standardisation of Practices in Open Source Hardware"
+  authors: Bonvoisin, Jérémy and Molloy, Jenny and Häuer, Martin and Wenzel, Tobias
+  journal: Journal of Open Hardware
+  doi: 10.5334/joh.22
+  image: ostandards.jpg
+  url: Wenzel-JOH-20
+  abstract: "Standardisation is an important component in the maturation of any field of technology. It contributes to the formation of a recognisable identity and enables interactions with a wider community. This article reviews past and current standardisation initiatives in the field of Open Source Hardware (OSH). While early initiatives focused on aspects such as licencing, intellectual property and documentation formats, recent efforts extend to ways for users to exercise their rights under open licences and to keep OSH projects discoverable and accessible online. We specifically introduce two standards that are currently being released and are seeking early users and contributors, the DIN SPEC 3105 and the Open Know-How Manifest Specification. Building on this, we reflect on challenges around standardisation in the OSH community and on relevant areas for future development such as an open tool chains, modularity and hardware-specific interface standards."
+
+- title: "Porous translucent electrodes enhance current generation from photosynthetic biofilms"
+  authors: Wenzel, Tobias and Härtter, Daniel and Bombelli, Paolo and Howe, Christopher J and Steiner, Ullrich
+  journal: Nature Communications
+  doi: 10.1038/s41467-018-03320-x
+  url: Wenzel-NComs-18
+  image: bpvnano.jpg
+  abstract: "Some photosynthetically active bacteria transfer electrons across their membranes, generating electrical photocurrents in biofilms. Devices harvesting solar energy by this mechanism are currently limited by the charge transfer to the electrode. Here, we report the enhancement of bioelectrochemical photocurrent harvesting using electrodes with porosities on the nanometre and micrometre length scale. For the cyanobacteria Nostoc punctiforme and Synechocystis sp. PCC6803 on structured indium-tin-oxide electrodes, an increase in current generation by two orders of magnitude is observed compared to a non-porous electrode. In addition, the photo response is substantially faster compared to non-porous anodes. Electrodes with large enough mesopores for the cells to inhabit show only a small advantage over purely nanoporous electrode morphologies, suggesting the prevalence of a redox shuttle mechanism in the electron transfer from the bacteria to the electrode over a direct conduction mechanism. Our results highlight the importance of electrode nanoporosity in the design of electrochemical bio-interfaces. Some microorganisms are able to generate electrons that can be externally harvested. Here the authors show an increase by two orders of magnitude in the photocurrent when two cyanobacterial strains are grown on nanopourous transparent conducting substrates, compared to traditional solid substrates."
+
+- title: "Enhancing the functionality of photovoltaic and photonic biointerfaces through structuration"
+  authors: Wenzel, Tobias
+  school: University of Cambridge
+
+- title=: "A flower's nano-powers"
+  authors: Wenzel, Tobias and Vignolini, Silvia
+  journal: Physics World
+  publisher: IOP Publishing
+
+- title: "Unfundierte Kritik. Eine Erwiderung auf einen Kommentar zu Schwächen von Open Access"
+  authors: Fischer, Caroline and Eisentraut, Nikolas and Fischer, Georg and Fecher, Benedikt and Friesike, Sascha and Goller, Marion and Hamann, Hanjo and Havemann, Johanna and Heck, Tamara and Heimstädt, Maximilian and Hirsbrunner, Simon David and von Lautz, Alexander Horst and Müller-Birn, Claudia and Mayer, Katja and Petzer, Tatjana and Schmalz, Xenia and Schoch, Kerstin and Schubotz, Moritz and Steinhardt, Isabel and Steinhoff, Tobias and Stutz, Hans Henning and Teckentrup, Vanessa and Tikhonov, Aleksej and Wenzel, Tobias and Wildgans, Julia
+  publisher: OSF Preprints
+
+- title: "PAINTING A RAINBOW WITH OCHRE: IRIDESCENCE IN BOTRYOIDAL GOETHITE"
+  authors: Heaney, Peter J and Post, Jeffrey E and Chen, Si Athena and Clark, Trevor and Wenzel, Tobias and Jacucci, Gianni and Vignolini, Silvia
+  booktitle: GSA Annual Meeting in Indianapolis, Indiana, USA-2018
+  organization: GSA
+
+- title: "Microrheology of DNA hydrogels"
+  authors: Xing, Zhongyang and Caciagli, Alessio and Cao, Tianyang and Stoev, Iliya and Zupkauskas, Mykolas and O’Neill, Thomas and Wenzel, Tobias and Lamboll, Robin and Liu, Dongsheng and Eiser, Erika
+  journal: Proceedings of the National Academy of Sciences
+  doi: 10.1073/pnas.1722206115
+  abstract: "A key objective in DNA-based material science is understanding and precisely controlling the mechanical properties of DNA hydrogels. We perform microrheology measurements using diffusing wave spectroscopy (DWS) to investigate the viscoelastic behavior of a hydrogel made of Y-shaped DNA (Y-DNA) nanostars over a wide range of frequencies and temperatures. We observe a clear liquid-to-gel transition across the melting temperature region for which the Y-DNA bind to each other. Our measurements reveal a cross-over between the elastic G′(ω) and loss modulus G″(ω) around the melting temperature Tm of the DNA building blocks, which coincides with the systems percolation transition. This transition can be easily shifted in temperature by changing the DNA bond length between the Y shapes. Using bulk rheology as well, we further show that, by reducing the flexibility between the Y-DNA bonds, we can go from a semiflexible transient network to a more energy-driven hydrogel with higher elasticity while keeping the microstructure the same. This level of control in mechanical properties will facilitate the design of more sensitive molecular sensing tools and controlled release systems."
+
+- title: "Disorder in convergent floral nanostructures enhances signalling to bees"
+  authors: Moyroud, Edwige and Wenzel, Tobias and Middleton, Rox and Rudall, Paula J and Banks, Hannah and Reed, Alison and Mellers, Greg and Killoran, Patrick and Westwood, Murphy M and Steiner, Ullrich and Vignolini, Silvia and Glover, Beverley J
+  journal: Nature
+  doi: 10.1038/nature24285
+  abstract: "Diverse forms of nanoscale architecture generate structural colour and perform signalling functions within and between species. Structural colour is the result of the interference of light from approximately regular periodic structures; some structural disorder is, however, inevitable in biological organisms. Is this disorder functional and subject to evolutionary selection, or is it simply an unavoidable outcome of biological developmental processes? Here we show that disordered nanostructures enable flowers to produce visual signals that are salient to bees. These disordered nanostructures (identified in most major lineages of angiosperms) have distinct anatomies but convergent optical properties; they all produce angle-dependent scattered light, predominantly at short wavelengths (ultraviolet and blue). We manufactured artificial flowers with nanoscale structures that possessed tailored levels of disorder in order to investigate how foraging bumblebees respond to this optical effect. We conclude that floral nanostructures have evolved, on multiple independent occasions, an effective degree of relative spatial disorder that generates a photonic signature that is highly salient to insect pollinators. Disordered nanoscale striations on petals, tepals and bracts have evolved multiple times among flowering plants and provide a salient visual signal to foraging bumblebees (Bombus terrestris). The natural world is always a bit fuzzy at the edges, but the fuzziness has a purpose. The surfaces of petals of many flowers have striations or ridges, which scatter light. But these arrays of ridges are not always arranged in a regimental order. In this paper, Beverley Glover and colleagues find that all of the flowering plants that they examined whose petals have such striations always display the same degree of disorder. This creates a 'blue halo' around the petals that pollinators find attractive. The authors find that similarly disorderly conduct happens in all flowering plants that are pollinated by insects or other animals, whereas the most primitive flowers, which are not pollinated by animals, seem not to have this capacity for orderly disorder."
+
+- title: "Biophotovoltaics: oxygenic photosynthetic organisms in the world of bioelectrochemical systems"
+  authors: McCormick, Alistair J and Bombelli, Paolo and Bradley, Robert W and Thorne, Rebecca and Wenzel, Tobias and Howe, Christopher J
+  journal: Energy and Environmental Science
+  doi: 10.1039/c4ee03875d
+  abstract: "The field of bioelectrochemical system (BES) research includes a wide range of emerging technologies that utilise microbes to catalyze anodic and/or cathodic reactions within a fuel cell setup, and has developed greatly in the last 2–3 years. Although the vast majority of BESs utilise organic substrates as a fuel source (e.g. microbial fuel cells), several systems have been developed that are fuelled by light energy. In this review we focus on and contextualise a specific subset of light-harvesting BESs, which we have called biophotovoltaic systems (BPVs). BPVs utilise oxygenic photosynthetic organisms, such as microalgal and cyanobacterial species, to harvest light energy to generate current, critically, in the absence of an organic feedstock. Here we discuss the state-of-the-art for all light-harvesting BESs and present a novel classification system to illustrate how BPVs integrate into the broad fields of BES and photovoltaic research. We compare and contrast the present understanding of electron transfer pathways in systems that use heterotrophic microbes with those in cyanobacteria-based BPVs. Finally we present, for the first time, an estimate of the achievable power outputs of this emerging technology."
+
+- title: "Directional scattering from the glossy flower of Ranunculus : how the buttercup lights up your chin"
+  authors: Vignolini, Silvia and Thomas, Meredith M and Kolle, Mathias and Wenzel, Tobias and Rowland, Alice and Rudall, Paula J and Baumberg, Jeremy J and Glover, Beverley J and Steiner, Ullrich
+  journal: Journal of The Royal Society Interface
+  doi: 10.1098/rsif.2011.0759

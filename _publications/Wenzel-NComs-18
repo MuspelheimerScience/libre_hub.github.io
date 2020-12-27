@@ -1,0 +1,11 @@
+@article{Wenzel_NComs_2018, 
+title = {{Porous translucent electrodes enhance current generation from photosynthetic biofilms}},
+author = {Wenzel, Tobias and Härtter, Daniel and Bombelli, Paolo and Howe, Christopher J and Steiner, Ullrich},
+journal = {Nature Communications},
+doi = {10.1038/s41467-018-03320-x},
+abstract = {{Some photosynthetically active bacteria transfer electrons across their membranes, generating electrical photocurrents in biofilms. Devices harvesting solar energy by this mechanism are currently limited by the charge transfer to the electrode. Here, we report the enhancement of bioelectrochemical photocurrent harvesting using electrodes with porosities on the nanometre and micrometre length scale. For the cyanobacteria Nostoc punctiforme and Synechocystis sp. PCC6803 on structured indium-tin-oxide electrodes, an increase in current generation by two orders of magnitude is observed compared to a non-porous electrode. In addition, the photo response is substantially faster compared to non-porous anodes. Electrodes with large enough mesopores for the cells to inhabit show only a small advantage over purely nanoporous electrode morphologies, suggesting the prevalence of a redox shuttle mechanism in the electron transfer from the bacteria to the electrode over a direct conduction mechanism. Our results highlight the importance of electrode nanoporosity in the design of electrochemical bio-interfaces. Some microorganisms are able to generate electrons that can be externally harvested. Here the authors show an increase by two orders of magnitude in the photocurrent when two cyanobacterial strains are grown on nanopourous transparent conducting substrates, compared to traditional solid substrates.}},
+pages = {1299},
+number = {1},
+volume = {9},
+year = {2018}
+}

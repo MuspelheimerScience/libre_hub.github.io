@@ -1,0 +1,10 @@
+@article{Wenzel_2020,
+title = {{Standardisation of Practices in Open Source Hardware}},
+author = {Bonvoisin, Jérémy and Molloy, Jenny and Häuer, Martin and Wenzel, Tobias},
+journal = {Journal of Open Hardware},
+issn = {2514-1708},
+doi = {10.5334/joh.22},
+url = {https://openhardware.metajnl.com/articles/10.5334/joh.22/},
+abstract = {{Standardisation is an important component in the maturation of any field of technology. It contributes to the formation of a recognisable identity and enables interactions with a wider community. This article reviews past and current standardisation initiatives in the field of Open Source Hardware (OSH). While early initiatives focused on aspects such as licencing, intellectual property and documentation formats, recent efforts extend to ways for users to exercise their rights under open licences and to keep OSH projects discoverable and accessible online. We specifically introduce two standards that are currently being released and are seeking early users and contributors, the DIN SPEC 3105 and the Open Know-How Manifest Specification. Building on this, we reflect on challenges around standardisation in the OSH community and on relevant areas for future development such as an open tool chains, modularity and hardware-specific interface standards.}},
+year = {2020}, 
+}

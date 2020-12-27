@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 layout: gridlay
-sitemap: false
 permalink: /publications/
+author_profile: true
 ---
 
 <style>
@@ -77,7 +77,7 @@ permalink: /publications/
 {% endfor %}
 
 {% if site.group_pub_by_year == true %}{% else %}
-### Journal Papers and Proceedings 
+### Journal Papers and Proceedings
 {% endif %}
 
 {% for myyear in site.data.years %}
@@ -141,4 +141,3 @@ permalink: /publications/
 {% endfor %}
 
 {% endfor %}
-

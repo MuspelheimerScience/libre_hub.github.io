@@ -5,18 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<style>
-.btn{
-    margin-bottom:0;
-}
-.jumbotron{
-    padding-bottom:0px;
-    padding-top:5px;
-    margin-top:10px;
-    margin-bottom:10px
-}
-</style>
-
 ## Publications
 
 {% assign yeartest = true %}

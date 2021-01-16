@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Publications
 
 {% assign yeartest = true %}
@@ -128,4 +130,5 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
+  {% include archive-single.html %}
 {% endfor %}

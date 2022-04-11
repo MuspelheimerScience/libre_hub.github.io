@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
-title                    : "Wenzel Lab"
+locale                   : "CL, Pontificia Universidad Católica de Chile "
+title                    : "LIBRE-hub"
 title_separator          : "-"
-name                     : &name "Wenzel Lab"
-description              : &description "Microbiome research team<br/>using microfluidics and<br/>open source hardware."
-url                      : https://wenzel-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "LIBRE_hub"
+description              : &description "Bioimaging<br/>using/>open source hardware."
+url                      : https://libre_hub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/wenzel-lab/wenzel-lab.github.io"
+repository               : "https://github.com/wenzel-lab/libre-hub.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
